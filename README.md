@@ -18,6 +18,7 @@ Data Dictionary
 
 
 ![image](https://user-images.githubusercontent.com/110747132/183268450-93a3118b-ed68-4dd4-a22c-986973bfea5b.png)
+![image](https://user-images.githubusercontent.com/110747132/183268792-d785141e-b05c-4c95-b8ab-4f82e52c8fa3.png)
 
 Key Findings:-
 - The restaurants fulfilling the criteria to get the promotional offer are: 'The Meatball Shop', 'BlueRibbon Fried Chicken', 'Shake Shack' and 'Blue Ribbon Sushi'.
