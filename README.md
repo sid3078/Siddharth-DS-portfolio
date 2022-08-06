@@ -20,8 +20,8 @@ Data Dictionary
 ![image](https://user-images.githubusercontent.com/110747132/183268450-93a3118b-ed68-4dd4-a22c-986973bfea5b.png)
 
 Key Findings:-
-●The restaurants fulfilling the criteria to get the promotional offer are: 'The Meatball Shop', 'BlueRibbon Fried Chicken', 'Shake Shack' and 'Blue Ribbon Sushi'.
-●The net revenue generated on all the orders given in the dataset is around 6166.3 dollars.
-●Approximately 10.54 % of the total orders have more than 60 minutes of total delivery time.
-●The mean delivery time on weekdays is around 28 minutes whereas the mean delivery time onweekends is around 22 minutes.
-●This could be due to the dip of traffic volume in the weekends
+- The restaurants fulfilling the criteria to get the promotional offer are: 'The Meatball Shop', 'BlueRibbon Fried Chicken', 'Shake Shack' and 'Blue Ribbon Sushi'.
+- The net revenue generated on all the orders given in the dataset is around 6166.3 dollars.
+- Approximately 10.54 % of the total orders have more than 60 minutes of total delivery time.
+- The mean delivery time on weekdays is around 28 minutes whereas the mean delivery time onweekends is around 22 minutes.
+- Around 80% of the orders are for American, Japanese, Italian and Chinese cuisines. Thus, it seems that these cuisines are quite popular among customers of FoodHub. 
