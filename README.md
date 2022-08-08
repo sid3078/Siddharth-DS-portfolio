@@ -50,8 +50,8 @@ Data Dictionary
     converted - Whether the user gets converted to a subscriber of the news portal or not
     language_preferred - Language chosen by the user to view the landing page
 
-![image](https://user-images.githubusercontent.com/110747132/183462549-4fcbdd41-cbea-4f49-880a-33ad04cb436e.png)
-![image](https://user-images.githubusercontent.com/110747132/183463044-2f9748cb-91b2-4baa-8b05-7d74ea38c000.png)
+![image](https://user-images.githubusercontent.com/110747132/183464006-6f8dadcf-5fb9-4daf-b598-80db559ac764.png)
+![image](https://user-images.githubusercontent.com/110747132/183464112-0ff1264a-380b-4d5e-a4ca-d8950941b50f.png)
 ![image](https://user-images.githubusercontent.com/110747132/183462943-0d6ea9fb-4c8f-47ef-ae26-ffa2a86c21b9.png)
 
 
