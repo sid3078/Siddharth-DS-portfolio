@@ -31,13 +31,41 @@ Data Dictionary
 ![image](https://user-images.githubusercontent.com/110747132/183455913-7f6acbc1-c43f-47d9-8873-c813ed74ac87.png)
 
 Key Findings:-
-- We can see that RMSE on the train and test sets are comparable. So, our model is not suffering from overfitting. MAE indicates that our current model is able to predict price within a mean error of 0.18 units on the test data. Hence, we can conclude the model "ols_res_3" is good for prediction as well as inference purposes.
+- We can see that RMSE on the train and test sets are comparable. So, our model is not suffering from overfitting. MAE indicates that our current model is able to predict price within a mean error of 0.18 units on the test data. Hence, we can conclude the model "ols_3" is good for prediction as well as inference purposes.
 
-- For business my recommendations Surprisingly 5G has a negative coefficinet RAM, main camera, and screensize are very impolrtant parametrs for phone pricing. They impact the pricing positivively and are very significant Normalised new prices are ofcourse positively linked This machine learning model can predict used phone prie pretty accurately. Still human intervention is suggested for final cehcks
-
-
+- For business my recommendations Surprisingly 5G has a negative coefficinet RAM, main camera, and screensize are very important parametrs for phone pricing. They impact the pricing positivively and are very significant Normalised new prices are ofcourse positively linked This machine learning model can predict used phone prie pretty accurately. Still human intervention is suggested for final checks.
 
 
+
+# Project 2 : E-New Express
+
+This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
+
+Data Dictionary
+
+    user_id - Unique user ID of the person visiting the website
+    group - Whether the user belongs to the first group (control) or the second group (treatment)
+    landing_page - Whether the landing page is new or old
+    time_spent_on_the_page - Time (in minutes) spent by the user on the landing page
+    converted - Whether the user gets converted to a subscriber of the news portal or not
+    language_preferred - Language chosen by the user to view the landing page
+
+![image](https://user-images.githubusercontent.com/110747132/183462549-4fcbdd41-cbea-4f49-880a-33ad04cb436e.png)
+![image](https://user-images.githubusercontent.com/110747132/183463044-2f9748cb-91b2-4baa-8b05-7d74ea38c000.png)
+![image](https://user-images.githubusercontent.com/110747132/183462943-0d6ea9fb-4c8f-47ef-ae26-ffa2a86c21b9.png)
+
+
+Key Findings:-
+
+- The users spend more time on the new page.
+    -This indicates that the outline & recommended content of the new page is more likely to keep customers engaged long enough to make a decision to subscribe
+- The conversion rate for the new page is greater than the conversion rate of the old page
+    -This indicates that the new page is more likely to gather new subscribers than the existing page
+- The conversion status is independent of the preferred language
+- The time spent on the new page does not differ with the language of the content
+    - This indicates that irrespective of the language, the outline & recommended content of the new page are engaging
+- It is recommended that the news company uses the new landing page to gather more subscribers
+    =The business logic would be to design a page that people spend time in, conversion will follow
 
 
 
