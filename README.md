@@ -1,5 +1,38 @@
 # Siddharth-DS-portfolio
 I did Post Graduate course in Data Sceince from University of Texas. This potfolio showcases projects completed by me during the program.
+
+# Project 1 : Re-cell Used Phone Pricing Analysis
+
+Buying and selling used phones and tablets used to be something that happened on a handful of online marketplace sites. But the used and refurbished device market has grown considerably over the past decade.The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market, want you to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
+
+Data Dictionary
+
+    brand_name: Name of manufacturing brand
+    os: OS on which the device runs
+    screen_size: Size of the screen in cm
+    4g: Whether 4G is available or not
+    5g: Whether 5G is available or not
+    main_camera_mp: Resolution of the rear camera in megapixels
+    selfie_camera_mp: Resolution of the front camera in megapixels
+    int_memory: Amount of internal memory (ROM) in GB
+    ram: Amount of RAM in GB
+    battery: Energy capacity of the device battery in mAh
+    weight: Weight of the device in grams
+    release_year: Year when the device model was released
+    days_used: Number of days the used/refurbished device has been used
+    normalized_new_price: Normalized price of a new device of the same model in euros
+    normalized_used_price: Normalized price of the used/refurbished device in euros
+
+
+
+
+![image](https://user-images.githubusercontent.com/110747132/183455722-dc91cefa-1664-4687-a5e9-8525a62c99a7.png)
+
+![image](https://user-images.githubusercontent.com/110747132/183455913-7f6acbc1-c43f-47d9-8873-c813ed74ac87.png)
+
+
+
+
 # Project 1 : FoodHub Data Analysis
 
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. As a Data Scientist in this company I am required to work on some of the key questions that need to be answered. I performed the data analysis to find answers to these questions that will help the company to improve the business.
