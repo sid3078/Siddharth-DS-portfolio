@@ -30,10 +30,19 @@ Data Dictionary
 
 ![image](https://user-images.githubusercontent.com/110747132/183455913-7f6acbc1-c43f-47d9-8873-c813ed74ac87.png)
 
+Key Findings:-
+- We can see that RMSE on the train and test sets are comparable. So, our model is not suffering from overfitting. MAE indicates that our current model is able to predict price within a mean error of 0.18 units on the test data. Hence, we can conclude the model "ols_res_3" is good for prediction as well as inference purposes.
+
+- For business my recommendations Surprisingly 5G has a negative coefficinet RAM, main camera, and screensize are very impolrtant parametrs for phone pricing. They impact the pricing positivively and are very significant Normalised new prices are ofcourse positively linked This machine learning model can predict used phone prie pretty accurately. Still human intervention is suggested for final cehcks
 
 
 
-# Project 1 : FoodHub Data Analysis
+
+
+
+
+
+# Project 3 : FoodHub Data Analysis
 
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. As a Data Scientist in this company I am required to work on some of the key questions that need to be answered. I performed the data analysis to find answers to these questions that will help the company to improve the business.
 
