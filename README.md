@@ -32,6 +32,8 @@ Data Dictionary
 
 Key Findings:-
 - We can see that RMSE on the train and test sets are comparable. So, our model is not suffering from overfitting. MAE indicates that our current model is able to predict price within a mean error of 0.18 units on the test data. Hence, we can conclude the model "ols_3" is good for prediction as well as inference purposes.
+![image](https://user-images.githubusercontent.com/110747132/185750732-98a77b89-a370-4f3a-8381-1b33faf22526.png)
+![image](https://user-images.githubusercontent.com/110747132/185750814-71ecfb02-9721-4cc5-9716-befd5fef1b30.png)
 
 - For business my recommendations Surprisingly 5G has a negative coefficinet RAM, main camera, and screensize are very important parametrs for phone pricing. They impact the pricing positivively and are very significant Normalised new prices are ofcourse positively linked This machine learning model can predict used phone prie pretty accurately. Still human intervention is suggested for final checks.
 
